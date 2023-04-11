@@ -23,7 +23,8 @@ a:link{
     align-items: baseline;
     list-style: none;
     background-color: #5B8FB9;
-    padding-bottom: 3rem; 
+    padding-bottom: 2rem; 
+    padding-top: 2rem; 
 }
 
 .cabecalho__estilo{
