@@ -33,6 +33,11 @@ a:link{
 
 }
 
+.cabecalho__estilo:hover{
+    color:#005eac
+
+}
+
 
 body{
     background-color: #005eac;
