@@ -104,3 +104,24 @@ h2{
 img{
     padding-left: 1.25rem;
 }
+
+.botao{
+    display: var(--flex);
+    align-items: center;
+    gap: 16px;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 21.5px 0 ;
+    text-decoration: none;
+    color: var(--cor-primaria);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    border-radius: 50px;
+    width: 18.75rem;
+    
+    text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
+    
+    background: linear-gradient(135.76deg, #4a4aff 13.44%, #5dfaff 95.56%);
+    
+}
