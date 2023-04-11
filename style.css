@@ -30,12 +30,14 @@ a:link{
     font-size:  2.5rem;
     color: #ffffff;
     padding-right: 2.5rem;
+    padding-block-end: 2.5rem;
 
 }
 
 .cabecalho__estilo:hover{
     color:#03001C;
-    padding-left: 0.5rem ;
+    padding-left: 0.5rem;
+    font-size:  2.8rem;
     
 
 }
