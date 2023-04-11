@@ -30,7 +30,7 @@ a:link{
     font-size:  2.5rem;
     color: #ffffff;
     padding-right: 2.5rem;
-    padding-bottom: 5rem;
+    
 
 }
 
@@ -49,6 +49,7 @@ body{
 }
 
 h1{
+    padding-top: 5rem;
     font-family: 'Bree Serif', serif; 
     font-weight: 600;
     font-size:  2.5rem;
