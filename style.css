@@ -18,7 +18,7 @@ a:link{
 }
 
 
-a{
+.cabecalho__estilo{
    font-family: 'Bree Serif', serif; 
    font-weight: 600;
    font-size:  2.5rem;
