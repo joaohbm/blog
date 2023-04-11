@@ -59,8 +59,10 @@ a:link{
 }
 
 .cabecalho__estilo1:hober{
+    text-shadow: none;
     color:#03001C;
     padding-left: 1.75rem;
+    
     
 }
 
