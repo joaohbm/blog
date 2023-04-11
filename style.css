@@ -36,6 +36,20 @@ a:link{
     padding-left: 1.25rem; 
 }
 
+.cabecalho__estilo1{
+    font-family: 'Bree Serif', serif; 
+    font-weight: 600;
+    font-size:  2.5rem;
+    color: #ffffff;
+    padding-right: 2.5rem;
+    padding-left: 1.25rem; 
+    text-shadow: 
+               -1px -1px 0px #000000, 
+               -1px 1px 0px #000000,                    
+                1px -1px 0px #000000,                  
+                1px 0px 0px #000000;
+}
+
 .cabecalho__estilo:hover{
     color:#03001C;
     padding-left: 1.75rem;
