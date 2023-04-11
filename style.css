@@ -19,7 +19,7 @@
 
 body{
     background-color: #005eac;
-
+    margin-left: 1.25rem;
 }
 
 h1{
@@ -33,7 +33,7 @@ p{
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 200;
     color:#B6EADA;
-    font-size: 1.375;
+    font-size: 1.375rem;
 }
 
 h2{
