@@ -133,7 +133,7 @@ img{
     
     text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
 
-    background: linear-gradient(135.76deg, #005eac 10%, #4D4D50 50%);
+    background: linear-gradient(135.76deg, #005eac 20%, #cccccc 70%);
 }
 
 .imagem-jogo{
