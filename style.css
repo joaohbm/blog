@@ -11,13 +11,6 @@ a:link{
     padding: 0;
 }
 
-:root{
-    --cor-primaria: #03001C;
-    --cor-secundaria: #B6EADA;
-    --cor-tercearia: #5B8FB9;
-    --cor-quartearia: #301E67;
-}
-
 .tabela{
     display: flex;
     align-items: baseline;
@@ -51,11 +44,8 @@ a:link{
     color: #ffffff;
     padding-right: 2.5rem;
     padding-left: 1.25rem; 
-    text-shadow: 
-               -0.08rem -0.08rem 0px #313131, 
-               -0.08rem 0.08rem 0px #313131,                    
-               0.08rem -0.08rem 0px #313131,                  
-               0.08rem 0px 0px #313131;
+    text-shadow: 4px 4px 22px #b8fdff, -4px -4px 20px #b8fdff;
+    
 }
 
 .cabecalho__estilo1:hover{
@@ -94,6 +84,10 @@ p{
     padding-left: 1.25rem;
 }
 
+.sobre{
+    width: 70%;
+}
+
 h2{
     font-family: 'Bree Serif', serif; 
     font-weight: 300;
@@ -111,6 +105,7 @@ img{
 
 .botao1{
     padding-left: 1.25rem;
+    padding-bottom: 3rem;
 }
 
 .botao{
@@ -138,8 +133,12 @@ img{
     
     text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
 
-    background: linear-gradient(135.76deg, #1c64ff 5%, #4D4D50 95.56%);
-  
-    
-    
+    background: linear-gradient(135.76deg, #005eac 10%, #4D4D50 50%);
+}
+
+.imagem-jogo{
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 49.9%;
+    opacity: 0.6;
 }
