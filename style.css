@@ -18,6 +18,7 @@ a:link{
 }
 
 .tabela{
+    display: flex;
     align-items: baseline;
 
 }
