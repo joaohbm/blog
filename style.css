@@ -115,31 +115,19 @@ img{
 
 .botao{
     
-    /*display: var(--flex);*/
-    align-items: center;
-    gap: 16px;
+    display: flex;
+    flex-direction: row;
     justify-content: center;
-    text-align: center;
-    font-size: 1.5rem;
-    padding: 1.343rem 0 ;
-    text-decoration: none;
-    color: var(--cor-primaria);
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    border-radius: 50px;
-    width: 20rem;
-    font-family: 'Bree Serif', serif; 
-    font-weight: 600;
-    font-size:  2.5rem;
-    color: #ffffff;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;
+    isolation: isolate;
+
+    position: absolute;
+    width: 32.5px;
+    height: 10px;
     
-    
-    
-    
-    background: #005eac;
-    border: 0.8rem, #4baeff
+
     
     
 }
