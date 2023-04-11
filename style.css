@@ -3,6 +3,7 @@
 
 a:link{
     text-decoration: none;
+    
 }
 
 *{
@@ -22,8 +23,7 @@ a:link{
     align-items: baseline;
     list-style: none;
     background-color: #5B8FB9;
-    padding-bottom: 3rem;
-    
+    padding-bottom: 3rem; 
 }
 
 .cabecalho__estilo{
@@ -32,24 +32,18 @@ a:link{
     font-size:  2.5rem;
     color: #ffffff;
     padding-right: 2.5rem;
-    padding-left: 1.25rem;
-    
-    
-
+    padding-left: 1.25rem; 
 }
 
 .cabecalho__estilo:hover{
     color:#03001C;
     padding-left: 1.75rem;
     font-size:  2.8rem;
-    
-
 }
 
 
 body{
-    background-color: #005eac;
-    
+    background-color: #005eac;   
 }
 
 h1{
@@ -74,5 +68,9 @@ h2{
     font-weight: 300;
     font-size:  2.25rem;
     color: #002472;
+    padding-left: 1.25rem;
+}
+
+img{
     padding-left: 1.25rem;
 }
