@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor-primaria: #03001C;
+    --cor-secundaria: #B6EADA;
+    --cor-tercearia: #5B8FB9;
+    --cor-quartearia: #301E67;
+}
+
+.body{
+    background-color: #5B8FB9;
+
+}
