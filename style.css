@@ -52,10 +52,10 @@ a:link{
     padding-right: 2.5rem;
     padding-left: 1.25rem; 
     text-shadow: 
-               -0.062rem -0.062rem 0px #313131, 
-               -0.062rem 0.062rem 0px #313131,                    
-               0.062rem -0.062rem 0px #313131,                  
-               0.062rem 0px 0px #313131;
+               -0.08rem -0.08rem 0px #313131, 
+               -0.08rem 0.08rem 0px #313131,                    
+               0.08rem -0.08rem 0px #313131,                  
+               0.08rem 0px 0px #313131;
 }
 
 .cabecalho__estilo1:hover{
@@ -63,10 +63,10 @@ a:link{
     color:#03001C;
     padding-left: 1.75rem;
     text-shadow: 
-               -0.08rem  -0.08rem  0px #FFF, 
-               -0.08rem  0.08rem  0px #FFF,                    
-                0.08rem  -0.08rem  0px #FFF,                  
-                0.08rem  0px 0px #FFF;
+               -0.062rem  -0.062rem  0px #FFF, 
+               -0.062rem  0.062rem  0px #FFF,                    
+                0.062rem  -0.062rem  0px #FFF,                  
+                0.062rem  0px 0px #FFF;
     
     
 }
