@@ -106,19 +106,21 @@ img{
 }
 
 .botao{
+    
     display: var(--flex);
     align-items: center;
     gap: 16px;
     justify-content: center;
     text-align: center;
     font-size: 1.5rem;
-    padding: 21.5px 0 ;
+    padding: 1.343rem 0 ;
     text-decoration: none;
     color: var(--cor-primaria);
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     border-radius: 50px;
-    width: 18.75rem;
+    width: 20rem;
+    padding-top: 3rem;
     
     text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
     
