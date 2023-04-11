@@ -137,9 +137,8 @@ img{
     
     
     text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
-    border-width: 1px;
-    border-color: #B6EADA;
-    background: #1998ff;
+
+    background: linear-gradient(135.76deg, #1c64ff 13.44%, #4D4D50 95.56%);
   
     
     
