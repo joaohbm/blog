@@ -36,6 +36,14 @@ a:link{
     padding-left: 1.25rem; 
 }
 
+
+
+.cabecalho__estilo:hover{
+    color:#03001C;
+    padding-left: 1.75rem;
+    
+}
+
 .cabecalho__estilo1{
     font-family: 'Bree Serif', serif; 
     font-weight: 600;
@@ -44,13 +52,13 @@ a:link{
     padding-right: 2.5rem;
     padding-left: 1.25rem; 
     text-shadow: 
-               -0.25rem -0.25rem 0px #000000, 
-               -0.25rem 0.25rem 0px #000000,                    
-               0.25rem -0.25rem 0px #000000,                  
-               0.25rem 0px 0px #000000;
+               -0.25rem -0.25rem 0px #313131, 
+               -0.25rem 0.25rem 0px #313131,                    
+               0.25rem -0.25rem 0px #313131,                  
+               0.25rem 0px 0px #313131;
 }
 
-.cabecalho__estilo:hover{
+.cabecalho__estilo1:hober{
     color:#03001C;
     padding-left: 1.75rem;
     
