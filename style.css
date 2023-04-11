@@ -52,10 +52,10 @@ a:link{
     padding-right: 2.5rem;
     padding-left: 1.25rem; 
     text-shadow: 
-               -0.25rem -0.25rem 0px #313131, 
-               -0.25rem 0.25rem 0px #313131,                    
-               0.25rem -0.25rem 0px #313131,                  
-               0.25rem 0px 0px #313131;
+               -0.5rem -0.5rem 0px #313131, 
+               -0.5rem 0.5rem 0px #313131,                    
+               0.5rem -0.5rem 0px #313131,                  
+               0.5rem 0px 0px #313131;
 }
 
 .cabecalho__estilo1:hober{
