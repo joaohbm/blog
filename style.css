@@ -111,7 +111,7 @@ img{
 
 .botao{
     
-    display: var(--flex);
+    /*display: var(--flex);*/
     align-items: center;
     gap: 16px;
     justify-content: center;
