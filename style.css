@@ -106,6 +106,10 @@ img{
 }
 
 .botao{
+    padding-left: 1.25rem;
+}
+
+.botao{
     
     display: var(--flex);
     align-items: center;
@@ -119,8 +123,8 @@ img{
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     border-radius: 50px;
-    width: 20rem;
-    padding-top: 3rem;
+    width: 25rem;
+    
     
     text-shadow: 4px 4px 22px #5a5a5a, -4px -4px 20px #4D4D50; /*sombra do texto*/
     
